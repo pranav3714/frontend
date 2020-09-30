@@ -1,4 +1,4 @@
-# frontend
+# Frontend_For_Tourism_Website
 A frontend project designed on .NET.
 
 How to run?
